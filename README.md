@@ -6,7 +6,7 @@ I'm open to collaboration and always happy to discuss new exciting projects!
 
 Feel free to explore my repositories and/or connect with me on [LinkedIn](https://www.linkedin.com/in/owenlilly/)!
 
-<h1 align="center">Programming Languages</h1>
+<h1>Programming Languages</h1>
 
 <span>
 <img src = "images/go-original-wordmark.svg" width="30" alt="Golang" title="Golang" />
@@ -15,7 +15,7 @@ Feel free to explore my repositories and/or connect with me on [LinkedIn](https:
 <img src = "images/python-original-wordmark.svg" width="30" alt="Python" title="Python" />
 </span>
 
-<h1 align="center">Technologies I Use</h1>
+<h1>Technologies I Use</h1>
 
 ### Frontend
 
