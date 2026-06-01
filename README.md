@@ -15,7 +15,7 @@ Feel free to explore my repositories and/or connect with me on [LinkedIn](https:
 <img src = "images/python-original-wordmark.svg" width="30" alt="Python" title="Python" />
 </span>
 
-<h1>Technologies I Use</h1>
+<h1>Technologies</h1>
 
 ### Frontend
 
